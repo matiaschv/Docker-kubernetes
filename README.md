@@ -1,2 +1,2 @@
 # Docker-kubernetes
-Exercises course cloud native SUSE
+Cloud native SUSE course exercises about dockers, kubernetes and CI / CD
